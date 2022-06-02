@@ -1,7 +1,7 @@
 Antonio Filho, muito prazer! 🐻
 
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
-- 💻 Atualmente estudando Front-end
+- 💻 Front-end
 - 😄 Pronouns: Ele/Dele
 
 
