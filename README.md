@@ -2,7 +2,7 @@ Antonio Filho, ou Bear!🐻
 
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
 - 💻 Front-end/Back-end
-- ☕ Java/Javascript
+- ☕ Javascript/Java
 - 😄 Pronouns: Ele/Dele
 - Bem-vindos(a) ao meu portifolio GitHub, espero que gostem dos projetos feito 😄. 
 
