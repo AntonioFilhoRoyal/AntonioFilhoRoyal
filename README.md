@@ -1,8 +1,10 @@
-Antonio Filho, muito prazer! 🐻
+Antonio Filho, ou Bear!🐻
 
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
-- 💻 Front-end
+- 💻 Front-end/Back-end
+- ☕ Java/Javascript
 - 😄 Pronouns: Ele/Dele
+- Bem-vindos(a) ao meu portifolio GitHub, espero que gostem dos projetos feito 😄. 
 
 
  <div align="left">
