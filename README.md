@@ -1,5 +1,3 @@
-Antonio Filho, ou Bear!🐻
-
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
 - 💻 FrontEnd/BackEnd
 - ☕ Javascript/Java
