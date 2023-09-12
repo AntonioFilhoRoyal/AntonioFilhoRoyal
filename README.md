@@ -4,7 +4,6 @@
 - 😄 Pronouns: Ele/Dele
 - Bem-vindos(a) ao meu portifolio GitHub, espero que gostem dos projetos feito 😄. 
 
-
 <div style="display: inline_block"><br>
  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
