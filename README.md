@@ -1,7 +1,6 @@
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
 - 💻 FrontEnd/BackEnd
 - ☕ Javascript/Java
-- 😄 Pronouns: Ele/Dele
 - Bem-vindos(a) ao meu portifolio GitHub, espero que gostem dos projetos feito 😄. 
 
 
